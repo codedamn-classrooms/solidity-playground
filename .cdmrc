@@ -1,0 +1,3 @@
+tabs: ['contracts/HelloSolidity.sol']
+terminal-one: truffle watch
+terminal-two: echo "Start working on your smart contracts"
